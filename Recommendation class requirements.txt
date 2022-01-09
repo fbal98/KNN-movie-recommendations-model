@@ -1,0 +1,11 @@
+ pip install sklearn
+ pip install pandas
+  pip install numpy
+
+ pip install fuzzywuzzy
+
+
+
+
+ pip install python-Levenshtein
+  pip install scikit-learn==1.0.1
